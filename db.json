@@ -1,0 +1,32 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Rosaceae Blue",
+      "icon": "Cone",
+      "color": "#A8067D",
+      "price": 0.99
+    },
+    {
+      "id": 2,
+      "name": "Rubiaceae Indigo",
+      "icon": "Popsicle",
+      "color": "#E6954E",
+      "price": 0.99
+    },
+    {
+      "id": 3,
+      "name": "Cactaceae Green",
+      "icon": "IceCream",
+      "color": "#3EA000",
+      "price": 0.99
+    },
+    {
+      "id": 4,
+      "name": "Poaceae Teal",
+      "icon": "Froyo",
+      "color": "#0670A8",
+      "price": 0.99
+    }
+  ]
+}
